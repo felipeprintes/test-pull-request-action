@@ -6,3 +6,5 @@ for i in range(10):
         direto na branch main')
     print('teste para merge')
     print('teste aprovação')
+    print('teste aprovação 2')
+    print('teste aprovação 3')
