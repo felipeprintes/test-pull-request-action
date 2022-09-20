@@ -8,3 +8,4 @@ for i in range(10):
     print('teste aprovação')
     print('teste aprovação 2')
     print('teste aprovação 3')
+    print('teste aprovação 4 validador do provador')
